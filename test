@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo rm -rf /usr/lib/xentaos/common
+sudo cp -R usr /
+

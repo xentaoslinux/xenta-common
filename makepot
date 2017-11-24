@@ -1,0 +1,5 @@
+#!/bin/bash
+
+xgettext --language=Python --keyword=_ --output=xenta-common.pot usr/lib/xentaos/common/xenta-which-launcher.py usr/lib/xentaos/common/xenta-remove-application.py generate_additional_files.py
+
+
