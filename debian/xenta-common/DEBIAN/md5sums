@@ -1,0 +1,17 @@
+dcd07d03103a10cd5b8955999a54e962  usr/lib/xentaos/common/additionalfiles.py
+13d0b7f534709f14e309e21ef6a38ce8  usr/lib/xentaos/common/env_check.sh
+0e39b8c8e47d20f7a8d7c979ac722b96  usr/lib/xentaos/common/generate_additional_files.py
+156893efdfd849a97a1a634e540d7228  usr/lib/xentaos/common/launch_browser.sh
+e7cfb987615c2d6d82fc8c86d22a1f2b  usr/lib/xentaos/common/launch_browser_as.py
+ed862370373846c20dd5c8c9f93d723c  usr/lib/xentaos/common/version.py
+ea2cd3e06f78e44e33acd836873e79f8  usr/lib/xentaos/common/xenta-remove-application.py
+5f95961ec2561f9ba7a37ec3df98298e  usr/lib/xentaos/common/xenta-which-launcher.py
+85f6abcdd2b61833c45e6232dab51502  usr/share/doc/xenta-common/changelog.gz
+6a55641de3b58463eb3e4be1eb52f5ad  usr/share/doc/xenta-common/copyright
+18ead2915ac2897e6036526fb788d434  usr/share/pixmaps/faces/0_alap.png
+925fb26f6080a3437d66f553e5497b33  usr/share/pixmaps/faces/0_arok.png
+2252f9d9cbb35e418cc4feee46977a2f  usr/share/pixmaps/faces/1_batik.png
+7f41b3d5462dd7218858b01488b79d4d  usr/share/pixmaps/faces/1_blacan.png
+80aeffef69c8c36ea665501f51aa8a3e  usr/share/pixmaps/faces/2_maskot.png
+43a679a8d40be23ceeb80e0ae6389dcc  usr/share/pixmaps/faces/user-generic.png
+bb3e870fc44516ebb5cc0445eb965640  usr/share/xentaos/logo.png

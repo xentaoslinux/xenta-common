@@ -1,0 +1,12 @@
+Package: xenta-common
+Version: 1.3.3+xentaos2
+Architecture: all
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
+Installed-Size: 190
+Depends: python (>= 2.4), python (<< 3), python-gi, xenta-translations, synaptic
+Section: admin
+Priority: optional
+Homepage: https://github.com/xentaos/xenta-common
+Description: Paket Pasangan Script untuk Xenta OS.
+ Sebuah Koleksi dan Pustaka yang digunkan Untuk
+ Sistem Operasi Xenta OS.
